@@ -35,8 +35,6 @@ Fresh Graduate & Web Developer Enthusiast. Suka mengubah ide jadi produk web yan
 
 ![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangarya\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangarya\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect with Me
