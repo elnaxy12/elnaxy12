@@ -41,7 +41,7 @@ Fresh Graduate & Web Developer Enthusiast. Suka mengubah ide jadi produk web yan
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@gryaaaa__-000?style=for-the-badge\&logo=instagram)](https://instagram.com/gryaaaa_)
+[![Instagram](https://img.shields.io/badge/Instagram-@gryaaaaaa___-000?style=for-the-badge\&logo=instagram)](https://instagram.com/gryaaaa_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gilangarya-000?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/gilangarya)
 
 ---
