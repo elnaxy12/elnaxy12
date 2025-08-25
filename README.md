@@ -1,57 +1,40 @@
-# Halo 👋, saya Gilang Arya
-
-Fresh Graduate & Web Developer Enthusiast. Suka mengubah ide jadi produk web yang rapi, cepat, dan enak dipakai.
-
----
-
-## 🚀 Tentang Saya
-
-* 💻 Fokus: Frontend & sedikit Backend (HTML, CSS, JavaScript, PHP)
-* 🐍 Jelajah: Python untuk otomasi & data ringan
-* ☕ Tertarik: Java untuk konsep OOP & dasar backend
-* 📚 Sedang belajar: Web Development & Crypto
-* 🎯 Goal: Bangun produk web yang bermanfaat dan scalable
+# Halo 👋, saya Gilang Arya Leksana
 
 ---
 
 ## 🧰 Tech Stack
-
-**Bahasa & Markup**
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge\&logo=php)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=openjdk)
-
-**Tools**
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge\&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
-
----
+<p style="display: flex; gap: 20px; width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+</p>
 
 ## 📊 GitHub Stats
-
-![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangarya\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-@gryaaaaaa___-000?style=for-the-badge\&logo=instagram)](https://instagram.com/gryaaaa_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gilangarya-000?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/gilangarya)
+![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangarya&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📝 Quick Highlights
-
-* 🔧 Suka bikin komponen UI yang reusable
-* 🧪 Tertib: struktur folder rapi, komentar seperlunya
-* 📦 Pernah bikin: form pelaporan bug (Python + Tkinter), halaman online shop dengan filter kategori & keranjang
+## 🔧 Tools
+<p align="left" style="display: flex; gap: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40"/>
+</p>
 
 ---
 
-## ☕ Dukungan
-
-Kalau suka sama project-projectku, jangan lupa ⭐ repo-nya, ya! Terima kasih 😊
+## 🌐 Connect
+<p align="left">
+  <a href="https://instagram.com/gryaaaaaa_" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/gilangarya" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://facebook.com/GilangAryaLeksana" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40"/>
+  </a>
+</p>
