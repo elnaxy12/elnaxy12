@@ -14,6 +14,7 @@ I am currently a Software Engineering student at Universitas Bina Sarana Informa
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/gilang.arya.3114/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/gryaaaaaa_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gilangarya)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0116cd4da2040b489c?mp_source=share)
 
 </div>
 
