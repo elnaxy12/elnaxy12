@@ -26,7 +26,7 @@ I am currently a Software Engineering student at Universitas Bina Sarana Informa
   
 </div>
 
-## 🔥 Top Languages
+## Top Languages
 
 | Language | Bytes | % |
 |---:|---:|---:|
