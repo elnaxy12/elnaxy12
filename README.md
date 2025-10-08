@@ -26,6 +26,8 @@ I am currently a Software Engineering student at Universitas Bina Sarana Informa
   
 </div>
 
+## 🔥 Top Languages
+
 ##  Tech Stack
 <p align="center" style="display: flex; gap: 20px;">
   
