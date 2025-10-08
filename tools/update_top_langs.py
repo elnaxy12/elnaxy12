@@ -22,12 +22,18 @@ def get_langs_for_repo(owner, repo):
 
 def make_md_table(lang_counter):
     total = sum(lang_counter.values()) or 1
-    lines = ["| Language | Bytes | % |", "|---:|---:|---:|"]
+    lines = [
+        '<div align="center">\n',
+        "| Language | Bytes | % |",
+        "|---:|---:|---:|",
+    ]
     for lang, b in lang_counter.most_common():
         pct = b / total * 100
-        bar = '█' * int(pct // 4)  # simple bar
+        bar = '█' * int(pct // 4)
         lines.append(f"| {lang} | {b:,} | {pct:.1f}% {bar} |")
+    lines.append("\n</div>")
     return "\n".join(lines)
+
 
 def update_readme(user, repo_name="README.md", section_title="## Top Languages"):
     repos = get_repos(user)
