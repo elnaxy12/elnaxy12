@@ -28,9 +28,11 @@ I am currently a Software Engineering student at Universitas Bina Sarana Informa
 
 ## Top Languages
 
+<div align="center">
+
 | Language | Bytes | % |
 |---:|---:|---:|
-| Python | 8,990,419 | 95.0% ███████████████████████ |
+| Python | 8,990,487 | 95.0% ███████████████████████ |
 | Blade | 195,705 | 2.1%  |
 | PHP | 116,816 | 1.2%  |
 | Java | 78,395 | 0.8%  |
@@ -40,6 +42,8 @@ I am currently a Software Engineering student at Universitas Bina Sarana Informa
 | Hack | 3,718 | 0.0%  |
 | Batchfile | 1,331 | 0.0%  |
 | JavaScript | 871 | 0.0%  |
+
+</div>
 
 ##  Tech Stack
 <p align="center" style="display: flex; gap: 20px;">
