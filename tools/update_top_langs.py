@@ -29,7 +29,7 @@ def make_md_table(lang_counter):
         lines.append(f"| {lang} | {b:,} | {pct:.1f}% {bar} |")
     return "\n".join(lines)
 
-def update_readme(user, repo_name="README.md", section_title="## 🔥 Top Languages"):
+def update_readme(user, repo_name="README.md", section_title="## Top Languages"):
     repos = get_repos(user)
     counter = Counter()
     for r in repos:
