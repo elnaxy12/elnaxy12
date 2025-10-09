@@ -61,7 +61,7 @@ Hi there👋, I'm Gilang Arya Leksana
 
 ## Prompt Troubleshoot
 <p align="center" style"display: flex; gap: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/512px-ChatGPT-Logo.svg.png?20240214002031" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="40"/>
 </p>
 
@@ -87,7 +87,7 @@ Hi there👋, I'm Gilang Arya Leksana
 <p align="center" style="display: flex; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40"/>
   <img src="https://cdn.simpleicons.org/prettier/F7B93E" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/windows8/windows8-original.svg" width="40"/>
   <img src="https://laragon.org/logo.svg" width="40" alt="Laragon"/>
