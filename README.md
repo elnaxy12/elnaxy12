@@ -46,14 +46,6 @@ Hi there👋, I'm Gilang Arya Leksana
 
 </div>
 
-<h2 align="left">GitHub Streak</h2>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elnaxy12&theme=tokyonight_duo&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
 ## Web Server Browser
 <p align="center" style"display: flex; gap: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/48px-Google_Chrome_icon_%28February_2022%29.svg.png" width="40"/>
