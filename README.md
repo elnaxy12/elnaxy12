@@ -5,7 +5,8 @@ Hi there👋, I'm Gilang Arya Leksana
 </h2>
 
 <p align="center">
-I am currently a Software Engineering student at Universitas Bina Sarana Informatika (UBSI) Kaliabang, specializing in software development with strong theoretical and practical skills.
+  <code>💻 Software Engineering student at UBSI Kaliabang</code><br>
+  <code>⚙️ Focused on creating efficient and scalable software solutions.</code>
 </p>
 
 ## Connect
@@ -18,7 +19,7 @@ I am currently a Software Engineering student at Universitas Bina Sarana Informa
 
 </div>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center">
 
@@ -44,6 +45,15 @@ I am currently a Software Engineering student at Universitas Bina Sarana Informa
 | JavaScript | 871 | 0.0%  |
 
 </div>
+
+<h2 align="left">GitHub Streak</h2>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elnaxy12&theme=tokyonight_duo&hide_border=false)](https://git.io/streak-stats)
+
+</div>
+
 
 ##  Tech Stack
 <p align="center" style="display: flex; gap: 20px;">
