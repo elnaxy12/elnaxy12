@@ -23,7 +23,7 @@ Hi there👋, I'm Gilang Arya Leksana
 
 <div align="center">
 
-![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangarya&show_icons=true&theme=tokyonight)
+![Gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=elnaxy12&show_icons=true&theme=tokyonight)
   
 </div>
 
