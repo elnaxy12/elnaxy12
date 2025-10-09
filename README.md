@@ -92,6 +92,7 @@ Hi there👋, I'm Gilang Arya Leksana
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/windows8/windows8-original.svg" width="40"/>
   <img src="https://laragon.org/logo.svg" width="40" alt="Laragon"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1183px-XAMPP_logo.svg.png" width="40" alt="XAMPP"/>
+  <img src="https://avatars.githubusercontent.com/u/63051368?s=280&v=4" width="40" alt="BLADE"/>
 </p>
 
 
