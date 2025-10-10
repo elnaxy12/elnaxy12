@@ -82,10 +82,10 @@ Hi there👋, I'm Gilang Arya Leksana
 </p>
 
 <p align="center">Web Server Browser</p>
-<h6 align="center">Prompt Troubleshoot</h6>
-<h6 align="center">Fronted Tech Stack</h6>
-<h6 align="center">Backend Tech Stack</h6>
-<h6 align="center">Tools & Workflow</h6>
+<p align="center">Prompt Troubleshoot</p>
+<p align="center">Fronted Tech Stack</p>
+<p align="center">Backend Tech Stack</p>
+<p align="center">Tools & Workflow</p>
 
 
 
