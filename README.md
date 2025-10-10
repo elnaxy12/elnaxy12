@@ -47,45 +47,45 @@ Hi there👋, I'm Gilang Arya Leksana
 </div>
 
 ## Web Server Browser
-<p align="center" style"display: flex; gap: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/48px-Google_Chrome_icon_%28February_2022%29.svg.png" width="40"/>
+<p align="center" style="display: flex; gap: 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/48px-Google_Chrome_icon_%28February_2022%29.svg.png" width="20"/>
 </p>
 
 ## Prompt Troubleshoot
-<p align="center" style"display: flex; gap: 20px;">
-  <img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="40"/>
+<p align="center" style="display: flex; gap: 20px;">
+  <img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="20"/>
 </p>
 
-
-##  Fronted Tech Stack
+## Fronted Tech Stack
 <p align="center" style="display: flex; gap: 20px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width="20"/>
 </p>
 
 ## Backend Tech Stack
 <p align="center" style="display: flex; gap: 20px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="20"/> 
 </p>
 
 ## Tools & Workflow
 <p align="center" style="display: flex; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40"/>
-  <img src="https://cdn.simpleicons.org/prettier/F7B93E" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/windows8/windows8-original.svg" width="40"/>
-  <img src="https://laragon.org/logo.svg" width="40" alt="Laragon"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1183px-XAMPP_logo.svg.png" width="40" alt="XAMPP"/>
-  <img src="https://avatars.githubusercontent.com/u/63051368?s=280&v=4" width="40" alt="BLADE"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/>
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="20"/>
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/windows8/windows8-original.svg" width="20"/>
+  <img src="https://laragon.org/logo.svg" width="20" alt="Laragon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1183px-XAMPP_logo.svg.png" width="20" alt="XAMPP"/>
+  <img src="https://avatars.githubusercontent.com/u/63051368?s=280&v=4" width="20" alt="BLADE"/>
 </p>
+
 
 
 
