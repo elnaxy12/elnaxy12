@@ -81,7 +81,7 @@ Hi there👋, I'm Gilang Arya Leksana
   <img src="https://avatars.githubusercontent.com/u/63051368?s=280&v=4" width="20" alt="BLADE"/>
 </p>
 
-<h6 align="center">Web Server Browser</h6>
+<p align="center">Web Server Browser</p>
 <h6 align="center">Prompt Troubleshoot</h6>
 <h6 align="center">Fronted Tech Stack</h6>
 <h6 align="center">Backend Tech Stack</h6>
