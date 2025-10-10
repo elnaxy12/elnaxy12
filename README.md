@@ -46,18 +46,18 @@ Hi there👋, I'm Gilang Arya Leksana
 
 </div>
 
-## Web Server Browser
+###### Web Server Browser
 <p align="center" style="display: flex; gap: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/48px-Google_Chrome_icon_%28February_2022%29.svg.png" width="20"/>
 </p>
 
-## Prompt Troubleshoot
+###### Prompt Troubleshoot
 <p align="center" style="display: flex; gap: 20px;">
   <img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="20"/>
 </p>
 
-## Fronted Tech Stack
+###### Fronted Tech Stack
 <p align="center" style="display: flex; gap: 20px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> 
@@ -65,7 +65,7 @@ Hi there👋, I'm Gilang Arya Leksana
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width="20"/>
 </p>
 
-## Backend Tech Stack
+###### Backend Tech Stack
 <p align="center" style="display: flex; gap: 20px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> 
@@ -74,7 +74,7 @@ Hi there👋, I'm Gilang Arya Leksana
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="20"/> 
 </p>
 
-## Tools & Workflow
+###### Tools & Workflow
 <p align="center" style="display: flex; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/>
