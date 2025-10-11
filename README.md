@@ -32,17 +32,22 @@ Hi there👋, I'm Gilang Arya Leksana
 <div align="center">
 
 <!--START_SECTION:top-langs-->
+<div align="center">
+
 | Language | Bytes | % |
 |---:|---:|---:|
-| Python | 8,990,487 | 95.0% ███████████████████████ |
+| Python | 8,990,415 | 94.9% ███████████████████████ |
+| Blade | 203,700 | 2.1%  |
 | PHP | 116,816 | 1.2%  |
 | Java | 78,395 | 0.8%  |
 | HTML | 45,212 | 0.5%  |
 | PowerShell | 23,754 | 0.3%  |
-| CSS | 5,926 | 0.1%  |
+| CSS | 8,651 | 0.1%  |
+| JavaScript | 6,210 | 0.1%  |
 | Hack | 3,718 | 0.0%  |
 | Batchfile | 1,331 | 0.0%  |
-| JavaScript | 871 | 0.0%  |
+
+</div>
 <!--END_SECTION:top-langs-->
 
 </div>
