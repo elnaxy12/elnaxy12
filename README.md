@@ -29,8 +29,6 @@ Hi there👋, I'm Gilang Arya Leksana
 
 ## Top Languages
 
-<div align="center">
-
 <!--START_SECTION:top-langs-->
 <div align="center">
 
