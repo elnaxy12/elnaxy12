@@ -29,12 +29,13 @@ Hi there👋, I'm Gilang Arya Leksana
 
 ## Top Languages
 
-<!--START_SECTION:langs-->
 <div align="center">
 
+<!--START_SECTION:top-langs-->
 | Language | Bytes | % |
 |---:|---:|---:|
 | Python | 8,990,487 | 95.0% ███████████████████████ |
+| Blade | 200,630 | 2.1%  |
 | PHP | 116,816 | 1.2%  |
 | Java | 78,395 | 0.8%  |
 | HTML | 45,212 | 0.5%  |
@@ -43,9 +44,9 @@ Hi there👋, I'm Gilang Arya Leksana
 | Hack | 3,718 | 0.0%  |
 | Batchfile | 1,331 | 0.0%  |
 | JavaScript | 871 | 0.0%  |
+<!--END_SECTION:top-langs-->
 
 </div>
-<!--END_SECTION:langs-->
 
 ##
 
