@@ -40,8 +40,8 @@ Hi there👋, I'm Gilang Arya Leksana
 | Blade | 399,525 | 3.0%  |
 | PHP | 185,803 | 1.4%  |
 | CSS | 138,256 | 1.1%  |
+| TypeScript | 81,828 | 0.6%  |
 | Java | 78,395 | 0.6%  |
-| TypeScript | 69,194 | 0.5%  |
 | PowerShell | 23,754 | 0.2%  |
 | Hack | 3,718 | 0.0%  |
 | Batchfile | 1,331 | 0.0%  |
