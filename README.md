@@ -67,12 +67,6 @@ Hi there👋, I'm Gilang Arya Leksana
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="20"/>
 </p>
 <p align="center" style="display: flex; gap: 20px;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width="20"/>
-</p>
-<p align="center" style="display: flex; gap: 20px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> 
@@ -89,9 +83,20 @@ Hi there👋, I'm Gilang Arya Leksana
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1183px-XAMPP_logo.svg.png" width="20" alt="XAMPP"/>
   <img src="https://avatars.githubusercontent.com/u/63051368?s=280&v=4" width="20" alt="BLADE"/>
 </p>
+<p align="center" style="display: flex; gap: 20px;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" width="20"/>
+  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" width="20"/>
+  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="20"/>
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="20"/>
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="20"/>
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="20"/>
+</p>
 
 <p align="center">Web Server Browser</p>
 <p align="center">Prompt Troubleshoot</p>
-<p align="center">Fronted Tech Stack</p>
 <p align="center">Backend Tech Stack</p>
 <p align="center">Tools & Workflow</p>
+<p align="center">Fronted Tech Stack</p>
