@@ -35,11 +35,11 @@ Hi there👋, I'm Gilang Arya Leksana
 | Language | Bytes | % |
 |---:|---:|---:|
 | CSS | 2,339,036 | 32.1% ████████ |
-| JavaScript | 1,783,866 | 24.5% ██████ |
+| JavaScript | 1,783,866 | 24.4% ██████ |
 | HTML | 1,559,992 | 21.4% █████ |
 | Blade | 905,049 | 12.4% ███ |
 | PHP | 378,352 | 5.2% █ |
-| TypeScript | 188,612 | 2.6%  |
+| TypeScript | 193,626 | 2.7%  |
 | Java | 78,395 | 1.1%  |
 | Python | 53,344 | 0.7%  |
 | Hack | 3,718 | 0.1%  |
